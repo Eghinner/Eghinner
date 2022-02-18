@@ -1,6 +1,6 @@
 | My favorite tools |![email-icon][] Email me to [eghinner@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
 | :---: | :---:
-| ![badge-react][] ![badge-css][] ![badge-javascript][] | ![banner][]
+| ![badge-react][] ![badge-css][] ![javascript][] | ![banner][]
 
 
 [pic]: https://avatars.githubusercontent.com/u/71513679?v=4
