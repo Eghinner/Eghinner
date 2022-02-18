@@ -9,8 +9,7 @@
 [linkedin-icon]: https://img.icons8.com/color/48/000000/linkedin.png
 [Linkedin]: https://www.linkedin.com/in/eghinner
 [github-icon]: https://img.icons8.com/color/48/000000/github--v1.png
-[badge-laravel]: https://icons8.com/icon/lRjcvhvtR81o/laravel
-[badge-javascript]: https://icons8.com/icon/108784/javascript
+[badge-javascript]:https://img.shields.io/badge/javascript108784?style=for-the-badge&logo=javascript
 [GitHub]: https://github.com/Eghinner
 [badge-react]: https://img.shields.io/badge/React-16+-61DAFB?style=for-the-badge&logo=react
 [badge-css]: https://img.shields.io/badge/style-CSS-1572B6?style=for-the-badge&logo=css3
